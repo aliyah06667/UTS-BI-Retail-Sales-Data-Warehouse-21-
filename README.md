@@ -1,5 +1,7 @@
 # UTS BI Retail Sales Data Warehouse Project
 
+<img width="1650" height="550" alt="Run with Jazz Party (1200 x 400 px) (5)" src="https://github.com/user-attachments/assets/f7871fa9-9883-43d4-9db0-f3407edf9a76" />
+
 **Nama Anggota:**
 
 1. Nabila Imtiyaz Agustin (011)
