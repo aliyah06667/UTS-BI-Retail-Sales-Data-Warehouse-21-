@@ -1,6 +1,6 @@
 # UTS BI Retail Sales Data Warehouse Project
 
-<img width="1650" height="550" alt="Run with Jazz Party (1200 x 400 px) (5)" src="https://github.com/user-attachments/assets/f7871fa9-9883-43d4-9db0-f3407edf9a76" />
+<img width="2100" height="700" alt="Run with Jazz Party (1200 x 400 px) (6)" src="https://github.com/user-attachments/assets/8eba6d29-c7df-45d2-bf55-e977a2744438" />
 
 **Nama Anggota:**
 
