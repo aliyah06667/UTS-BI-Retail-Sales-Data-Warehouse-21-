@@ -114,6 +114,15 @@ Berikut adalah penjelasan masing-masing tabel pada rancangan *data warehouse* ya
 
 ### A. ERD - Star Schema Data Warehouse Penjualan
 
+<img width="795" height="372" alt="image" src="https://github.com/user-attachments/assets/fa40f8aa-011e-4c66-9df4-60a4d3415599" />
+
+<img width="760" height="614" alt="image" src="https://github.com/user-attachments/assets/c9c99344-605a-4e39-8fdc-b6f6653d372c" />
+
+<img width="794" height="344" alt="image" src="https://github.com/user-attachments/assets/3db33edd-4be5-4563-91b7-cd182e2fe589" />
+
+<img width="805" height="406" alt="image" src="https://github.com/user-attachments/assets/9955e6dc-fe55-458e-8884-79b34c2fa2ce" />
+
+<img width="793" height="524" alt="image" src="https://github.com/user-attachments/assets/652b56be-5ce2-47d3-a262-e999d4ed52a9" />
 
 ---
 </details>
